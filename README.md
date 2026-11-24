@@ -1,3 +1,3 @@
 # lineofflight.github.io
 
-The organisation's GitHub Pages site. Its domain, lineofflight.dev, is the one every project site without a domain of its own is served under, such as lineofflight.dev/peddler. The root redirects to the company site at lineofflig.ht.
+The organisation's GitHub Pages site at [lineofflight.dev](https://lineofflight.dev), indexing Line of Flight's open-source projects and serving project sites without a standalone domain (such as `/loops/`, `/peddler/`, and `/pretty-jason/`).
